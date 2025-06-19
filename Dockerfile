@@ -1,1 +1,1 @@
-FROM gcr.io/linkerd-io/grafana:stable-2.6.0
+FROM prom/prometheus:v2.11.1
